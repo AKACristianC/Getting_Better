@@ -1,3 +1,3 @@
 # Getting_Better
 
-I am trying to get better at python and Github so i will start doing push almost everyday
+I am trying to learn more data analysis so i will try to commit my advances here as a project
