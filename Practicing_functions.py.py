@@ -16,4 +16,4 @@ def destination_setup(origin, destination, estimated_time, mode_of_transport = "
   print( "You will be traveling by " + mode_of_transport) 
   print("It will take approximately " + str(estimated_time) + " hours ")
 
-destination_setup("New Yotk", "Sydney",estimate )
+destination_setup("New York", "Sydney",estimate )
